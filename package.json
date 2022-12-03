@@ -1,0 +1,31 @@
+{
+  "name": "arana",
+  "version": "1.0.0",
+  "description": "Телеграмм бот для вселенной",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node micro_service/bot/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/immortal-object/arana.git"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "node.js",
+    "node-telegram-bot-api"
+  ],
+  "author": "t.me/tg_bot_dever",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/immortal-object/arana/issues"
+  },
+  "homepage": "https://github.com/immortal-object/arana#readme",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "node-telegram-bot-api": "^0.60.0"
+  },
+  "type": "module"
+}
