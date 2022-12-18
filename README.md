@@ -7,7 +7,7 @@ ____
 ### Установка технологий
 
 `sudo apt install nodejs` - Node.js <br>
-`sudo apt install npm``` - пакетный менеджер для Node.js <br>
+`sudo apt install npm` - пакетный менеджер для Node.js <br>
 `sudo apt install mysql-server mysql-client` - MySQL
 
 ### Установка Node.js библиотек
